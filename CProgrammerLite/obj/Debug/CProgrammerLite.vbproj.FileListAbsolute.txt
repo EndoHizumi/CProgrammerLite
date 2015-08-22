@@ -1,0 +1,42 @@
+C:\Users\ie210044\AppData\Local\Temporary Projects\CProgrammerLite\bin\Debug\CProgrammerLite.exe
+C:\Users\ie210044\AppData\Local\Temporary Projects\CProgrammerLite\bin\Debug\CProgrammerLite.pdb
+C:\Users\ie210044\AppData\Local\Temporary Projects\CProgrammerLite\bin\Debug\CProgrammerLite.xml
+C:\Users\ie210044\AppData\Local\Temporary Projects\CProgrammerLite\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ie210044\AppData\Local\Temporary Projects\CProgrammerLite\obj\Debug\CProgrammerLite.Form1.resources
+C:\Users\ie210044\AppData\Local\Temporary Projects\CProgrammerLite\obj\Debug\CProgrammerLite.Resources.resources
+C:\Users\ie210044\AppData\Local\Temporary Projects\CProgrammerLite\obj\Debug\CProgrammerLite.vbproj.GenerateResource.Cache
+C:\Users\ie210044\AppData\Local\Temporary Projects\CProgrammerLite\obj\Debug\CProgrammerLite.exe
+C:\Users\ie210044\AppData\Local\Temporary Projects\CProgrammerLite\obj\Debug\CProgrammerLite.xml
+C:\Users\ie210044\AppData\Local\Temporary Projects\CProgrammerLite\obj\Debug\CProgrammerLite.pdb
+C:\Users\ie210044\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\obj\Debug\CProgrammerLite.exe
+C:\Users\ie210044\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\obj\Debug\CProgrammerLite.xml
+C:\Users\ie210044\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\obj\Debug\CProgrammerLite.pdb
+C:\Users\shkikuchiu\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\obj\Debug\CProgrammerLite.exe
+C:\Users\shkikuchiu\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\obj\Debug\CProgrammerLite.xml
+C:\Users\shkikuchiu\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\obj\Debug\CProgrammerLite.pdb
+C:\Users\shkikuchiu\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\bin\Debug\CProgrammerLite.exe
+C:\Users\shkikuchiu\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\bin\Debug\CProgrammerLite.pdb
+C:\Users\shkikuchiu\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\bin\Debug\CProgrammerLite.xml
+C:\Users\shkikuchiu\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shkikuchiu\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\obj\Debug\CProgrammerLite.Form1.resources
+C:\Users\shkikuchiu\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\obj\Debug\CProgrammerLite.Resources.resources
+C:\Users\shkikuchiu\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\obj\Debug\CProgrammerLite.vbproj.GenerateResource.Cache
+C:\Users\ie210044\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\bin\Debug\CProgrammerLite.exe
+C:\Users\ie210044\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\bin\Debug\CProgrammerLite.pdb
+C:\Users\ie210044\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\bin\Debug\CProgrammerLite.xml
+C:\Users\ie210044\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ie210044\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\obj\Debug\CProgrammerLite.Form1.resources
+C:\Users\ie210044\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\obj\Debug\CProgrammerLite.Resources.resources
+C:\Users\ie210044\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\obj\Debug\CProgrammerLite.vbproj.GenerateResource.Cache
+C:\Users\ie210044\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\obj\Debug\CProgrammerLite.AboutBox1.resources
+C:\Users\ie210044\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\bin\Debug\Resources\run.bat
+C:\Users\shkikuchiu\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\bin\Debug\Resources\run.bat
+C:\Users\shkikuchiu\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\obj\Debug\CProgrammerLite.AboutBox1.resources
+C:\Users\shkikuchiu\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\obj\Debug\CProgrammerLite.Dialog1.resources
+C:\Users\ie210044\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\obj\Debug\CProgrammerLite.Dialog1.resources
+C:\Users\ie210044\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\obj\Debug\CProgrammerLite.Dialog2.resources
+C:\Users\ie210044\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\bin\Debug\NSSPRNXA.dll
+C:\Users\ie210044\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\bin\Debug\NSSPRNXA.pdb
+C:\Users\shkikuchiu\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\bin\Debug\NSSPRNXA.dll
+C:\Users\shkikuchiu\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\bin\Debug\NSSPRNXA.pdb
+C:\Users\shkikuchiu\Dropbox\Development\VB\CProgrammerLite\CProgrammerLite\obj\Debug\CProgrammerLite.Dialog2.resources

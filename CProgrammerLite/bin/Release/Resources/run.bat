@@ -1,0 +1,3 @@
+@ECHO OFF
+a.exe
+PAUSE
